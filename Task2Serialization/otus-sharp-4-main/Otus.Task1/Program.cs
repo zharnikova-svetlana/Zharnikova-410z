@@ -100,4 +100,4 @@ namespace Otus.Task1
             Console.ReadLine();
         }
     }
-}
+} 
