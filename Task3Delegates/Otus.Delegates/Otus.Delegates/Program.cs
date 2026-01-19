@@ -26,4 +26,4 @@ namespace Otus.Delegates
             Console.ReadLine();
         }
     }
-}
+} 
